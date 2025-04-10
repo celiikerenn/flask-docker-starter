@@ -40,11 +40,5 @@ Hello! My name is: DockerFlaskApp
 If APP_NAME is not set, it defaults to "VarsayılanUygulama".
 This is a beginner-friendly setup ideal for learning Docker + Flask integration.
 
-# 📂 Project Structure
-flask-docker-starter/
-├── app.py
-├── Dockerfile
-└── requirements.txt
-
 # ✍️ Author
 https://github.com/celiikerenn
